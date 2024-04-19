@@ -1,3 +1,8 @@
+# Rules
+# Rock wins aginst scissors
+# Scissors wins against paper
+# Paper wins against rock
+
 rock = '''
     _______
 ---'   ____)
